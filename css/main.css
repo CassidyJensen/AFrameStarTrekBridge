@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Bitter|Cabin|Domine|Titillium+Web&display=swap");
+body {
+  font-family: "Titillium Web", sans-serif;
+  background-color: rgba(25, 25, 25, 0.9);
+  color: white; }
+
+header {
+  font-family: "Domine", serif;
+  color: rgba(25, 206, 151, 0.96); }
+
+/*# sourceMappingURL=main.css.map */
